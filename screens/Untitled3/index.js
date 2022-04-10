@@ -1,9 +1,9 @@
 import React from "react";
 import { View } from "react-native";
 
-const Untitled2 = () => {
+const Untitled3 = () => {
   return <View style={{
-    backgroundColor: "#222226",
+    backgroundColor: "#7d7db6",
     padding: 10,
     position: "relative",
     height: "100%"
@@ -11,4 +11,4 @@ const Untitled2 = () => {
       </View>;
 };
 
-export default Untitled2;
+export default Untitled3;
